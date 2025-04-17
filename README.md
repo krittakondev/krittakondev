@@ -31,7 +31,9 @@ Right now, I'm studying Japanese with the goal of living and working in Japan so
 ### 📱 Language Learning App (React Native)
 > An image-based language app where users swipe to memorize vocabulary — kind of like Tinder but for learning.
 
-- Visual learning with TTS (text-to-speech) support  
+- TTS (text-to-speech) support
+- STT (speech-to-text) support  
+
 - Built for learners of Japanese, English, or any custom language  
 - Tech: React Native (Expo) + Golang (goapisuit + Fiber) + MySQL + Docker  
 - 🧑‍💻 My role: Full-stack development + learning flow design  
