@@ -36,6 +36,8 @@ Right now, I'm studying Japanese with the goal of living and working in Japan so
 - Tech: React Native (Expo) + Golang (goapisuit + Fiber) + MySQL + Docker  
 - 🧑‍💻 My role: Full-stack development + learning flow design  
 - 🎥 Demo: [Upwork Portfolio Video](https://www.upwork.com/freelancers/~01c0991b9d447c967b?p=1859146920318406656)
+- 🎥 Demo: [Linkedin Video](https://www.linkedin.com/posts/krittakondev_demo-react-native-app-for-practicing-new-activity-7265726609549107200-9jBa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFPV41cBpxSF1CsET01UaMtfnOqfnsdqouI)
+
 
 ---
 
