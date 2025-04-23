@@ -25,6 +25,9 @@ Right now, I'm studying Japanese with the goal of living and working in Japan so
 - Auto/manual water scheduling with LINE integration  
 - Edge computing via Raspberry Pi  
 - 🧑‍💻 My role: Full-stack (Mobile + Backend + IoT)
+- 🎥 Demo: [VDO for Mobile App(React native)](https://www.linkedin.com/feed/update/urn:li:activity:7320861769818595328/)
+- 🎥 Demo: [VDO for Line(Line Flex)](https://www.linkedin.com/feed/update/urn:li:activity:7320864326100152320/)
+
 
 ---
 
