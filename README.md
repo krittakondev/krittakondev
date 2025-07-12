@@ -114,8 +114,7 @@ I’m also building apps to help others learn languages too — because learning
 
 - GitHub: [krittakondev](https://github.com/krittakondev)  
 - Fastwork: [fastwork.co/user/krittakon](https://fastwork.co/user/krittakon)  
-- Email: krit@9krit.dev  
-- LINE: (available on request)
+- Email: work@9krit.dev
 
 ---
 
