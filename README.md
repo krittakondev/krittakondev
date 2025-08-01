@@ -1,8 +1,11 @@
 # 👋 Hi, I'm Krit — a Developer passionate about IoT, Automation, and Japan 🇯🇵
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=krittakondev)
+
 I'm a self-taught software developer from Thailand.  
 I love solving real-world problems with code — from backend systems and IoT to web automation and language learning apps.  
 Right now, I'm studying Japanese with the goal of living and working in Japan someday.
+
 
 ---
 
