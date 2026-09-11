@@ -66,7 +66,7 @@ Currently building **[Kitslancer](https://kitslancer.com)** — a freelance mana
 
 ## 📫 Contact
 
-- 🌐 Website: [kitslancer.com](https://kitslancer.com)
+- 🌐 Website: [9krit.dev](https://9krit.dev)
 - 💼 Fastwork: [fastwork.co/user/krittakon](https://fastwork.co/user/krittakon)
 - 📧 Email: work@9krit.dev
 
