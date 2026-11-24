@@ -1,75 +1,125 @@
-# 👋 Hi, I'm Krit — Developer & Founder
+# 👋 Hi, I'm Krit — Full-Stack Developer
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=krittakondev)
 
-Self-taught developer from Thailand 🇹🇭  
-I build tools that solve real problems — from IoT systems to SaaS products.  
-Currently building **[Kitslancer](https://kitslancer.com)** — a freelance management tool for developers.
+Self-taught software developer from Thailand 🇹🇭
 
----
+I develop web applications, backend services, automation tools, and IoT systems.
 
-## 🚀 What I'm Building
-
-### 🛠 [Kitslancer](https://kitslancer.com) — Freelance Management for Developers
-> AI-powered tool that helps freelancers analyze project scope, calculate pricing, generate proposals, and track income — all in one place.
-
-- 💰 AI-assisted project pricing & proposal generator
-- 🧾 Automatic tax calculation (WHT & VAT)
-- 📊 Real-time income dashboard
-- 🔗 GitHub timeline integration
-- 🌐 **Live at [kitslancer.com](https://kitslancer.com)**
+Passionate about system design, open-source software, and solving real-world problems through technology.
 
 ---
 
 ## ⚙️ Tech Stack
 
-- **Languages**: TypeScript, Go, Python, Rust (learning)
-- **Frameworks**: Elysia, Next.js, Fiber, React Native
-- **Tools**: Docker, Bun, Drizzle ORM, Better Auth
-- **IoT & Automation**: Raspberry Pi, ESP8266, Puppeteer
-- **Cloud**: Cloudflare, Fly.io, Supabase
+- **Languages:** TypeScript, Go, Python, Rust
+- **Frontend:** React, Next.js, React Native
+- **Backend:** Elysia, GoFiber, Node.js, Bun
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis, SQLite
+- **Tools:** Docker, Git, Drizzle ORM, Better Auth
+- **IoT & Automation:** Raspberry Pi, ESP8266, Puppeteer
+- **Infrastructure:** Linux, Nginx, Cloudflare
 
 ---
 
 ## 🧪 Featured Projects
 
-### 🌱 BeCuzYou – IoT Smart Farm Controller
-> Remote-control platform for managing farm watering systems using Raspberry Pi.
+### 🛠 [Kitslancer](https://kitslancer.com) — Freelance Management Platform
 
-- React Native app for real-time control
-- Auto/manual scheduling with LINE integration
-- 🎥 [Demo (Mobile)](https://www.linkedin.com/feed/update/urn:li:activity:7320861769818595328/) · [Demo (LINE)](https://www.linkedin.com/feed/update/urn:li:activity:7320864326100152320/)
+An AI-powered platform that simplifies project management, pricing, and financial workflows for freelancers.
+
+**Role:** Full-Stack Developer
+
+- AI-assisted project scope analysis and pricing estimation
+- Automated proposal generation
+- Automatic tax calculation (WHT & VAT)
+- Real-time income and financial dashboard
+- GitHub integration and project timeline tracking
+
+🌐 [Live Application](https://kitslancer.com)
+
+---
+
+### 🌱 BeCuzYou — IoT Smart Farm Controller
+
+An IoT-based platform for remotely monitoring and controlling agricultural irrigation systems.
+
+**Role:** Full-Stack & IoT Developer
+
+- Real-time control through a React Native mobile application
+- Automated and manual irrigation scheduling
+- Raspberry Pi integration
+- LINE messaging integration
+- Remote device monitoring and management
+
+**Tech Stack:** React Native, Python, Raspberry Pi, SQLite, Socket.IO
 
 ---
 
 ### 📱 Language Learning App
-> Tinder-style vocabulary app with TTS/STT support for Japanese, English, and more.
 
-- React Native (Expo) + Golang + MySQL
-- 🎥 [Demo](https://www.upwork.com/freelancers/~01c0991b9d447c967b?p=1859146920318406656)
+An interactive vocabulary learning application featuring a swipe-based interface and speech recognition.
+
+**Role:** Full-Stack Developer
+
+- Swipe-based vocabulary learning
+- Text-to-Speech and Speech-to-Text integration
+- Support for multiple languages, including Japanese and English
+- Mobile application and backend API development
+
+**Tech Stack:** React Native (Expo), Go, MySQL
 
 ---
 
-### 🔧 goapisuit – Go API Framework
-> Lightweight CLI framework to scaffold GoFiber APIs quickly.
+### 🔧 [goapisuit](https://github.com/krittakondev/goapisuit) — Go API Scaffolding Framework
 
-- 🔗 [krittakondev/goapisuit](https://github.com/krittakondev/goapisuit)
+An open-source CLI tool designed to simplify and accelerate backend API development with Go.
+
+- Automated project scaffolding
+- Structured and maintainable project architecture
+- GoFiber integration
+- Developer-focused command-line interface
+
+**Tech Stack:** Go, GoFiber
+
+🔗 [Source Code](https://github.com/krittakondev/goapisuit)
 
 ---
 
-### 🧾 OCR Slip Verifier via LINE
-> LINE bot that verifies payment slips via OCR in under 1 second.
+### 🧾 OCR Payment Slip Verifier
 
-- Tesseract.js + Node.js + LINE API
+An automated payment slip processing system integrated with LINE.
+
+**Role:** Backend Developer
+
+- OCR-based payment slip data extraction
+- Automated image processing
+- LINE Messaging API integration
+- Real-time processing and response
+
+**Tech Stack:** Node.js, Tesseract.js, LINE Messaging API
+
+---
+
+## 💡 Areas of Interest
+
+- Backend Engineering & System Design
+- API Development & Integration
+- Open-Source Software
+- Self-Hosting & Linux
+- IoT & Automation
+- Bitcoin & Lightning Network
+- AI-Powered Applications
 
 ---
 
 ## 📫 Contact
 
-- 🌐 Website: [9krit.dev](https://9krit.dev)
-- 💼 Fastwork: [fastwork.co/user/krittakon](https://fastwork.co/user/krittakon)
-- 📧 Email: work@9krit.dev
+- 🌐 **Website:** [9krit.dev](https://9krit.dev)
+- 💼 **Portfolio:** [Krit](https://app.kitslancer.com/u/9krit)
+- 💻 **Fastwork:** [fastwork.co/user/krittakon](https://fastwork.co/user/krittakon)
+- 📧 **Email:** [work@9krit.dev](mailto:work@9krit.dev)
 
 ---
 
-_"I build tools I wish existed."_
+> "I build tools I wish existed."
